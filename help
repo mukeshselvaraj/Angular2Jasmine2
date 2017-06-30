@@ -1,16 +1,25 @@
-Hi,
+PASS:
+Regarding this project, I could say that am the sole developer for designing and developing this project.
+I used the following latest technologies:
+AngularJS, TypeScript, NodeJS, WebAPI, WebPack, Angular CLI.
+I have created the POC of this project with minimal help gained.
+I have did lots of offline research to bring & implement standards to this application outside my office hours.
+Since, there are restrictions in reaching the resources we required within the office network.
+Its reveals my dedication by accomplishing this project.
+The key highlights of this project are:
+Rich UI design, performance, back/forward compatible code and moreover the best industrial practices followed.
+Even this application could be used as a benchmark app to develop an enterprise level AngularJS application.
 
-I am planning to do Lasik operation for both of my eyes and I would need to comply with few medical obligations once I am going through the surgical process.
-The process involves of preliminary tests, surgery and then post operation care. The surgery would hardly take 30mins for performing on both of the eyes. But, the post surgical care is very much important and it should be taken care intensively, else it would result in infection or even could impair the eye sight.
-I have been advised to visit the doctor frequently in certain days for regular followups and I must be assisted by a family member to pour the drops into the eyes every hr across day and night.
-I am suggested not to live in a dust prone area, not to stare at TV/Mobile/System and to wear sunglasses whenever I am exposed to light.
-During the course, I will be having continuous irritation within eyes and eye liquid will be dispersed enormously. So, I can't able to concentrate on my regular day activities and it would be more hectic till it gets cured and to bring back to normal situation.
-Considering all those factors, I have decided to undergo the surgical process as per the below schedule.
-As of now, I am planned to do it by Jul 5th. So, I would be taking off from Jul 4th-17th and I would be back by 18th. If I could able to manage myself somehow without assistance, I would come back as earlier as I could. So, the timeline which I provided is tentative and I would amend the schedule and health in accordance.
-Also, I would consider this as my right time to do it as its my long desirable need, but I don't get the appropriate timings to meet this up.
-But, now I am in the process of team change and going thru the relocation process and also I don't have any tight deadlines from my end.
-Also, it would not be fair if I take such a long leave once I moved to the new team and again my surgery would be keep on postponed subsequently.
-If you don't have any concerns with the above said timeline, then I would consider this as your token of your approval and I would proceed further as per the schedule.
+IO Chart Redesign:
+The existing project been developed in HTML & CSS. I rewrited the existing ones by migrating to latest using HighCharts Library.
+During the course of migration, I encountered to the delivery line without breaking the existing functionality. Also, the code has been written in a modularized way inorder to extend with ease.
+Meawhile, considering the existing core concept, in addition i have added the below features:
+Multi securities plot, Zoom in/out and Buffer Zone.
 
-Thanks,
-Mukesh.
+SVG Sprite Utility:
+Using this utility I have developed in way that, we can create multiple SVG Sprite files by executing a single line command.
+The utility purpose is to combine SVG icons & to create SVG file.
+I did a groundwork to analyze and identifying to opt the better methodology to implement by doing comparision with CSS files.
+I have used the latest NodeJS and Gulp to develop this application.
+Apart from the purpose of the application it also serves the following advantages to the end user like it requires only minimal effort to create 'n' no of files and its very ease to use. Even, the application is freezed and no further development may require on this and still if needed it can be updated with minimal effort.
+
